@@ -13,3 +13,7 @@ Some text will be inserted here!
 ## Purpose
 
 Sample website with plenty of files for demos
+
+### Copyright
+
+This source-repo is copyrighted by Salman
