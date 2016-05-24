@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work etc.
 More changes from my feature branch too.
+Doing a emergency fix after applying stash
 
 ## Installation
 
