@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Installation
 
+No instruction is set yet to facilitate installation.
+
 ## Deployment
 
 Some text will be inserted here!
